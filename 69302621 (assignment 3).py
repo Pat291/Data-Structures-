@@ -111,3 +111,4 @@ root_1 = (-b - np.sqrt(discriminant))/2*a
 root_2 = (-b + np.sqrt(discriminant))/2*a
 print()
 print('(h.2) The points at which the minimum bending moment occur are {0} and {1}'.format(root_1,root_2))
+# github link is https://github.com/Pat291/Data-Structures-/blob/main/6930621%20(assignment%203).py
